@@ -8,3 +8,5 @@
 </div>
 
 Em construção. 
+
+ ![Snake animation](https://github.com/hollowgreen/hollowgreen/blob/output/github-contribution-grid-snake.svg)
