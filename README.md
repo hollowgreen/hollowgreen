@@ -9,4 +9,4 @@
 
 Em construção. 
 
- ![Snake animation](https://github.com/hollowgreen)
+ ![Snake animation]
