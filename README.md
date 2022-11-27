@@ -1,5 +1,5 @@
 ### Oi bem vindo ao meu perfil👋
-- 🌱 Estudando Back End em geral! ...
+- 🌱 Estudando para ser um desenvolverdor full-stack! 
 - 📫 E-mail para contato: rapha.cx@live.com 
 <div align="center">
   <a href="https://github.com/hollowgreen">
